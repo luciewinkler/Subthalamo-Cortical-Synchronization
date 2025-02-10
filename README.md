@@ -1,1 +1,1 @@
-This is the code used in the scientific publication "Context-Dependent Modulations of Subthalamo-Cortical Synchronization during Rapid Reversals of Movement Direction in Parkinson's Disease" by Winkler et al. 2025. https://doi.org/10.7554/eLife.101769.1
+This is the Matlab code used in the scientific publication "Context-Dependent Modulations of Subthalamo-Cortical Synchronization during Rapid Reversals of Movement Direction in Parkinson's Disease" by Winkler et al. 2025. https://doi.org/10.7554/eLife.101769.1
